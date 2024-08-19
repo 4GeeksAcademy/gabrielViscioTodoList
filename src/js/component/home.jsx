@@ -1,10 +1,11 @@
 import React from "react";
 import HouseWorks from "./houseworks";
+import ToDo from "./toDo";
 
 const Home = () => {
     return (
         <>
-            <HouseWorks />
+            <ToDo />
         </>
     );
 };
